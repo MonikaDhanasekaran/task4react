@@ -175,7 +175,7 @@ function App() {
 
     <div style={{ padding: "10px", background: 'pink', color: 'black', }}>
 
-      <h2 style={{background: 'black', color: 'white', width: '15%'}}>User Detail Form</h2>
+      <h2 style={{color: 'black', width: '15%'}}>User Detail Form</h2>
 
       <Box sx={{ flexGrow: 1 }}>
 
