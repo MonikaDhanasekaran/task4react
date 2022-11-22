@@ -282,7 +282,7 @@ function App() {
 
           <Grid item xs={8}>
 
-            <h2 style={{background: 'black', color: 'white', width: '13%'}}>User Data</h2>
+            <h2 style={{color: 'black', width: '13%'}}>User Data</h2>
 
             <TableContainer component={Paper}>
 
