@@ -173,7 +173,7 @@ function App() {
   };
   return (
 
-    <div style={{ padding: "10px", background: 'yellow', color: 'black', }}>
+    <div style={{ padding: "10px", background: 'pink', color: 'black', }}>
 
       <h2 style={{background: 'black', color: 'white', width: '15%'}}>User Detail Form</h2>
 
